@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.delete-btn {
+  position: absolute;
+  right: 0px;
+}
